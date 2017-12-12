@@ -4,6 +4,10 @@
       {
         "label": "Sign Authenticated Authorship",
         "command": "authenticated-authorship:sign"
+      },
+      {
+        "label": "Verify Authenticated Authorship",
+        "command": "authenticated-authorship:verify"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Sign",
               "command": "authenticated-authorship:sign"
+            },
+            {
+              "label": "Verify",
+              "command": "authenticated-authorship:verify"
             }
           ]
         }
