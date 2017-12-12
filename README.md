@@ -1,0 +1,2 @@
+# Authenticated_Authorship_Atom_Plugin
+Atom Plugin for Authenticated Authorship
