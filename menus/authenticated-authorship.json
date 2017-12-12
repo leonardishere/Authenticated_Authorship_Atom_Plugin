@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Sign Authenticated Authorship",
+        "command": "authenticated-authorship:sign"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Authenticated Authorship",
+          "submenu": [
+            {
+              "label": "Sign",
+              "command": "authenticated-authorship:sign"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
