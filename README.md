@@ -1,5 +1,4 @@
-# Authenticated_Authorship_Atom_Plugin
-Atom Plugin for Authenticated Authorship
+# Authenticated Authorship Atom Plugin
 
 [ Description of Authenticated Authorship as a whole and what the atom plugin will do ]
 
