@@ -7,7 +7,7 @@ Atom Plugin for Authenticated Authorship
 
 Install Atom text editor if you haven't already. [Atom text editor](https://atom.io/)  
 
-Clone this repository into your atom workspace. On windows, this is likely C:\Users\\<username\>\.atom\packages  
+Clone this repository into your atom workspace. On windows, this is likely C:\Users\\<username\>\\.atom\packages  
 Open a terminal window in the authenticated-authorship folder.  
 Run the following commands:  
 ```
