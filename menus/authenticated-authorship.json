@@ -2,11 +2,11 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Sign Authenticated Authorship",
+        "label": "Authenticated Authorship - Sign",
         "command": "authenticated-authorship:sign"
       },
       {
-        "label": "Verify Authenticated Authorship",
+        "label": "Authenticated Authorship - Verify",
         "command": "authenticated-authorship:verify"
       }
     ]
