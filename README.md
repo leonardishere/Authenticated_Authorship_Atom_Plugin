@@ -1,7 +1,7 @@
 # Authenticated_Authorship_Atom_Plugin
 Atom Plugin for Authenticated Authorship
 
-- [ Description of Authenticated Authorship as a whole and what the atom plugin will do ]
+[ Description of Authenticated Authorship as a whole and what the atom plugin will do ]
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm install --save kbpgp
 apm install  
 ```
 
-- [ Replace this install method with a package search within Atom ]
+[ Replace this install method with a package search within Atom ]
 
 ## How to use
 
@@ -26,8 +26,8 @@ Begin by writing your article in Atom. When you are finished, sign the article b
 * Menu Bar -> Packages -> Authenticated Authorship -> Sign
 * Context Menu -> Authenticated Authorship - Sign
 
-- [ Insert key management instructions here once its figured out. ]  
-- [ Insert image of signed article ]
+[ Insert key management instructions here once its figured out. ]  
+[ Insert image of signed article ]
 
 ### Verifying
 
@@ -36,7 +36,7 @@ Do not make any edits to the file. Edits may cause authentication to fail. If de
 * Menu Bar -> Packages -> Authenticated Authorship -> Verify
 * Context Menu -> Authenticated Authorship - Verify
 
-- [ Insert image of verified article ]
+[ Insert image of verified article ]
 
 Remember to undo any edits that verification may have caused.
 
