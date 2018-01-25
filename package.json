@@ -5,8 +5,9 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    
+
   },
+  "readmeFilename": "README.md",
   "repository": "https://github.com/atom/authenticated-authorship",
   "license": "MIT",
   "engines": {
