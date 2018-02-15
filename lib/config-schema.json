@@ -4,10 +4,11 @@
     "type": "boolean",
     "default": false
   },
-  "setRange": {
+  "signWith": {
+    "description": "Choose which author you want to sign as.",
     "type": "integer",
-    "default": 42,
-    "minium": 1,
-    "maximum": 9000
+    "default": 0,
+    "minium": 0,
+    "maximum": 3
   }
 }
