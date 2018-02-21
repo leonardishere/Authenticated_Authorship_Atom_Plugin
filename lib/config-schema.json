@@ -1,14 +1,7 @@
 {
-  "activateHyperMode": {
-    "description": "Turns the package into hyper mode.",
-    "type": "boolean",
-    "default": false
-  },
-  "signWith": {
-    "description": "Choose which author you want to sign as.",
-    "type": "integer",
-    "default": 0,
-    "minium": 0,
-    "maximum": 3
+  "defaultUsername": {
+    "description": "The user that will use this package the most. Leave blank on public machines.",
+    "type": "string",
+    "default": ""
   }
 }

@@ -1,12 +1,12 @@
 {
   "name": "authenticated-authorship",
   "main": "./lib/authenticated-authorship",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "version": "1.0.0",
+  "description": "The official Atom plugin for the Authenticated Authorship project.",
+  "keywords": ["authenticated", "authorship", "trust", "project", "santa", "clara", "university", "scu"],
   "activationCommands": {},
   "readmeFilename": "README.md",
-  "repository": "https://github.com/atom/authenticated-authorship",
+  "repository": "https://github.com/leonardishere/Authenticated_Authorship_Atom_Plugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
