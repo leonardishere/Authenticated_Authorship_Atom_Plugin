@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-a": "authenticated-authorship:authenticate",
-    "ctrl-alt-v": "authenticated-authorship:verify"
+    "ctrl-alt-v": "authenticated-authorship:verify",
+    "ctrl-alt-h": "authenticated-authorship:hardware-authenticate"
   }
 }
