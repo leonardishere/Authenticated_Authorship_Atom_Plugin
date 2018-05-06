@@ -2,24 +2,27 @@
 
 Authenticated Authorship seeks to authenticate the authorship of messages, increasing users’ trust of the internet. They specifically seek to tackle falsified journalism by building a system that can be used across sectors and mediums.
 
-The Atom plugin is a proof of concept that a hackable text editor can be made to work as a tool to not only sign articles but also to verify them as well. The plugin is the main tool for authors who wish to sign their articles. The plugin allows people to use a public/private key pair which is hosted at Keybase.io to sign an article and then have the opportunity to share the article on the Internet. A signed article can also be shared through email, personal website, or social media platform. Also the plugin is responsible for verifying articles from the Internet as well as articles sent to a user through other means. 
+The Atom plugin is a proof of concept that a hackable text editor can be made to work as a tool to not only sign articles but also to verify them as well. The plugin is the main tool for authors who wish to sign their articles. The plugin allows people to use a public/private key pair which is hosted at Keybase.io to sign an article and then have the opportunity to share the article on the Internet. A signed article can also be shared through email, personal website, or social media platform. Also the plugin is responsible for verifying articles from the Internet as well as articles sent to a user through other means.
 
 ## Installation
 
-Install Atom text editor if you haven't already. [Atom text editor](https://atom.io/)  
+* Install [Atom text editor](https://atom.io/) if you haven't already.   
+* In Atom, open *Preferences* (*Settings* on Windows).
+* Go to the *Install* section.
+* Search for the `Authenticated Authorship` package. Once it is found, click the `Install` button to install the package.
 
-Clone this repository into your atom workspace. On windows, this is likely C:\Users\\<username\>\\.atom\packages  
-Open a terminal window in the authenticated-authorship folder.  
-Run the following commands:  
-```
-npm install --save kbpgp  
-apm install  
-```
+## Manual installation
 
-[ Replace this install method with a package search within Atom ]
+You can install the latest version of Authenticated Authorship manually from the console. Close atom, then execute the following commands:
+
+```bash
+cd ~/.atom/packages
+git clone https://github.com/leonardishere/Authenticated_Authorship_Atom_Plugin.git
+cd authenticated-authorship
+npm install
+```
 
 ## How to use
-
 
 ### Hardware Authenticating
 
