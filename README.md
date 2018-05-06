@@ -18,15 +18,20 @@ apm install
 
 ## How to use
 
-### Signing
+
+### Hardware Authenticating
 
 Begin by writing your article in Atom. When you are finished, sign the article by using one of the following methods:  
-* Ctrl-Alt-A
-* Menu Bar -> Packages -> Authenticated Authorship -> Sign
-* Context Menu -> Authenticated Authorship - Sign
+* Ctrl-Alt-P
+* Menu Bar -> Packages -> Authenticated Authorship -> Hardware Authenticate
+* Context Menu -> Authenticated Authorship - Hardware Authenticate
 
-[ Insert key management instructions here once its figured out. ]  
-[ Insert image of signed article ]
+### File Authenticating
+
+Begin by writing your article in Atom. When you are finished, sign the article by using one of the following methods if you have your private key saved in a file:  
+* Ctrl-Alt-L
+* Menu Bar -> Packages -> Authenticated Authorship -> File Authenticate
+* Context Menu -> Authenticated Authorship - File Authenticate
 
 ### Verifying
 
@@ -38,6 +43,13 @@ Do not make any edits to the file. Edits may cause authentication to fail. If de
 [ Insert image of verified article ]
 
 Remember to undo any edits that verification may have caused.
+
+### Store Private Key to File
+
+Begin by choosing any of these methods to store your private key to a file:  
+* Ctrl-Alt-I
+* Menu Bar -> Packages -> Authenticated Authorship -> Store Private Key to File
+* Context Menu -> Authenticated Authorship - Store Private Key to File
 
 ### Sharing
 

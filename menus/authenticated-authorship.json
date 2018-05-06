@@ -8,6 +8,18 @@
       {
         "label": "Authenticated Authorship - Verify",
         "command": "authenticated-authorship:verify"
+      },
+      {
+        "label": "Authenticated Authorship - Hardware Authenticate",
+        "command": "authenticated-authorship:hardware-authenticate"
+      },
+      {
+        "label": "Authenticated Authorship - File Authenticate",
+        "command": "authenticated-authorship:hardware-authenticate2"
+      },
+      {
+        "label": "Authenticated Authorship - Store Private Key to File",
+        "command": "authenticated-authorship:store-to-file"
       }
     ]
   },
@@ -25,6 +37,18 @@
             {
               "label": "Verify",
               "command": "authenticated-authorship:verify"
+            },
+            {
+              "label": "Authenticated Authorship - Hardware Authenticate",
+              "command": "authenticated-authorship:hardware-authenticate"
+            },
+            {
+              "label": "Authenticated Authorship - File Authenticate",
+              "command": "authenticated-authorship:hardware-authenticate2"
+            },
+            {
+              "label": "Authenticated Authorship - Store Private Key to File",
+              "command": "authenticated-authorship:store-to-file"
             }
           ]
         }
