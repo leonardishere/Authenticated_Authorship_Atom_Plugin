@@ -2,10 +2,6 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Authenticated Authorship - Sign",
-        "command": "authenticated-authorship:sign"
-      },
-      {
         "label": "Authenticated Authorship - Verify",
         "command": "authenticated-authorship:verify"
       },
@@ -30,10 +26,6 @@
         {
           "label": "Authenticated Authorship",
           "submenu": [
-            {
-              "label": "Sign",
-              "command": "authenticated-authorship:sign"
-            },
             {
               "label": "Verify",
               "command": "authenticated-authorship:verify"
