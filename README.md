@@ -1,6 +1,8 @@
 # Authenticated Authorship Atom Plugin
 
-[ Description of Authenticated Authorship as a whole and what the atom plugin will do ]
+Authenticated Authorship seeks to authenticate the authorship of messages, increasing users’ trust of the internet. They specifically seek to tackle falsified journalism by building a system that can be used across sectors and mediums.
+
+The Atom plugin is a proof of concept that a hackable text editor can be made to work as a tool to not only sign articles but also to verify them as well. The plugin is the main tool for authors who wish to sign their articles. The plugin allows people to use a public/private key pair which is hosted at Keybase.io to sign an article and then have the opportunity to share the article on the Internet. A signed article can also be shared through email, personal website, or social media platform. Also the plugin is responsible for verifying articles from the Internet as well as articles sent to a user through other means. 
 
 ## Installation
 
