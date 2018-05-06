@@ -3,6 +3,7 @@
     "ctrl-alt-a": "authenticated-authorship:authenticate",
     "ctrl-alt-v": "authenticated-authorship:verify",
     "ctrl-alt-p": "authenticated-authorship:hardware-authenticate",
-    "ctrl-alt-i": "authenticated-authorship:store-to-file"
+    "ctrl-alt-i": "authenticated-authorship:store-to-file",
+    "ctrl-alt-l": "authenticated-authorship:hardware-authenticate2"
   }
 }
