@@ -36,9 +36,9 @@ Begin by writing your article in Atom. When you are finished, sign the article b
 * Context Menu -> Authenticated Authorship - Hardware Authenticate
 
 Enter your Keybase username, password, and private key. To retrieve your private key, view your account keybase.io/<username>, then click the buttons as shown in the images.
-![keybase private key screenshot 1](/img/keybase_private_key_screenshot_1.PNG)
-![keybase private key screenshot 2](/img/keybase_private_key_screenshot_2.PNG)
-![keybase private key screenshot 3](/img/keybase_private_key_screenshot_3.PNG)
+![keybase private key screenshot 1](img/keybase private key screenshot 1.PNG)
+![keybase private key screenshot 2](img/keybase private key screenshot 2.PNG)
+![keybase private key screenshot 3](img/keybase private key screenshot 3.PNG)
 
 Follow the on screen instructions. When the private key is displayed, copy it and paste it into the authentication window.
 
