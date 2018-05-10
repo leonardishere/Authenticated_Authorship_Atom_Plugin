@@ -1,6 +1,6 @@
 # Authenticated Authorship Atom Plugin
 
-Authenticated Authorship seeks to authenticate the authorship of messages, increasing users’ trust of the internet. They specifically seek to tackle falsified journalism by building a system that can be used across sectors and mediums.
+Authenticated Authorship seeks to authenticate the authorship of messages, increasing users’ trust of the internet. They specifically seek to tackle falsified journalism, yet build a system that can be used across sectors and mediums.
 
 The Atom plugin is a proof of concept that a hackable text editor can be made to work as a tool to not only sign articles but also to verify them as well. The plugin is the main tool for authors who wish to sign their articles. The plugin allows people to use a public/private key pair which is hosted at Keybase.io to sign an article and then have the opportunity to share the article on the Internet. A signed article can also be shared through email, personal website, or social media platform. Also the plugin is responsible for verifying articles from the Internet as well as articles sent to a user through other means.
 
@@ -24,12 +24,23 @@ npm install
 
 ## How to use
 
-### Hardware Authenticating
+### Keybase
+
+A Keybase account is required to use the system. Create one at [keybase.io](keybase.io) if you do not have one. Read their guide to generate and host a public/private key pair.
+
+### Authenticating
 
 Begin by writing your article in Atom. When you are finished, sign the article by using one of the following methods:  
 * Ctrl-Alt-P
 * Menu Bar -> Packages -> Authenticated Authorship -> Hardware Authenticate
 * Context Menu -> Authenticated Authorship - Hardware Authenticate
+
+Enter your Keybase username, password, and private key. To retrieve your private key, view your account keybase.io/<username>, then click the buttons as shown in the images.
+![keybase private key screenshot 1](/img/keybase_private_key_screenshot_1.PNG)
+![keybase private key screenshot 2](/img/keybase_private_key_screenshot_2.PNG)
+![keybase private key screenshot 3](/img/keybase_private_key_screenshot_3.PNG)
+
+Follow the on screen instructions. When the private key is displayed, copy it and paste it into the authentication window.
 
 ### File Authenticating
 
