@@ -19,8 +19,13 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "base64-js": "^1.3.0",
     "cheerio": "^0.20.0",
+    "crypto-js": "^3.1.9-1",
     "google": "^2.0.0",
+    "kbpgp": "^2.0.77",
+    "keybase-login": "^1.0.1",
+    "msgpack-js": "^0.3.0",
     "msgpack-lite": "^0.1.26",
     "request": "^2.73.0",
     "triplesec": "^3.0.26"
