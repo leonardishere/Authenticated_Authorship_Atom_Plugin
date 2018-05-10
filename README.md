@@ -39,6 +39,7 @@ Enter your Keybase username, password, and private key. To retrieve your private
 ![keybase private key screenshot 1](img/keybase private key screenshot 1.PNG)
 ![keybase private key screenshot 2](img/keybase private key screenshot 2.PNG)
 ![keybase private key screenshot 3](img/keybase private key screenshot 3.PNG)
+<img src="img/keybase private key screenshot 1.PNG" alt="keybase private key screenshot 1">
 
 Follow the on screen instructions. When the private key is displayed, copy it and paste it into the authentication window.
 
