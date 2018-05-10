@@ -30,11 +30,13 @@ npm install
 
 A Keybase account is required to use the system. Create one at [keybase.io](keybase.io) if you do not have one. Read their guide to generate and host a public/private key pair.
 
-When necessary, retrieve your private key from Keybase via viewing your account at keybase.io/<username>, then clicking the buttons as shown in the images below.
-<img src="img/keybase private key screenshot 1.PNG" alt="keybase private key screenshot 1">
-<img src="img/keybase private key screenshot 2.PNG" alt="keybase private key screenshot 2">
-<img src="img/keybase private key screenshot 3.PNG" alt="keybase private key screenshot 3">
+When necessary, retrieve your private key from Keybase via viewing your account at keybase.io/username, then clicking the buttons as shown in the images below.
+<img src="https://raw.githubusercontent.com/leonardishere/Authenticated_Authorship_Atom_Plugin/9ea129d/img/keybase%20private%20key%20screenshot%201.PNG" alt="keybase private key screenshot 1">
+<img src="https://raw.githubusercontent.com/leonardishere/Authenticated_Authorship_Atom_Plugin/9ea129d/img/keybase%20private%20key%20screenshot%202.PNG" alt="keybase private key screenshot 2">
+<img src="https://raw.githubusercontent.com/leonardishere/Authenticated_Authorship_Atom_Plugin/9ea129d/img/keybase%20private%20key%20screenshot%203.PNG" alt="keybase private key screenshot 3">
 Follow the on screen instructions. When the private key is displayed, it can be copied and pasted into Atom.
+
+
 
 ### Authenticating
 
