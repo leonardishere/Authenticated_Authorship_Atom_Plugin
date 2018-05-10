@@ -25,6 +25,7 @@
     "google": "^2.0.0",
     "kbpgp": "^2.0.77",
     "keybase-login": "^1.0.1",
+    "mpack-js": "^1.2.0",
     "msgpack-js": "^0.3.0",
     "msgpack-lite": "^0.1.26",
     "request": "^2.73.0",
