@@ -1,7 +1,7 @@
 {
   "name": "authenticated-authorship",
   "main": "./lib/authenticated-authorship",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "The official Atom plugin for the Authenticated Authorship project.",
   "keywords": [
     "authenticated",
